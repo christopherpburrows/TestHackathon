@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22438" started-at="2019-07-26T10:19:39Z" finished-at="2019-07-26T10:20:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22438" started-at="2019-07-26T10:19:39Z" finished-at="2019-07-26T10:20:01Z">
+      <class name="mobile.BaseClass">
+        <test-method status="PASS" signature="setup()[pri:0, instance:mobile.BaseClass@4667ae56]" name="setup" is-config="true" duration-ms="22413" started-at="2019-07-26T10:19:39Z" finished-at="2019-07-26T10:20:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="sampletest()[pri:0, instance:mobile.BaseClass@4667ae56]" name="sampletest" duration-ms="4" started-at="2019-07-26T10:20:01Z" finished-at="2019-07-26T10:20:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampletest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:mobile.BaseClass@4667ae56]" name="teardown" is-config="true" duration-ms="0" started-at="2019-07-26T10:20:01Z" finished-at="2019-07-26T10:20:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- mobile.BaseClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
